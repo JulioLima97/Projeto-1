@@ -1,5 +1,6 @@
 # Project-1
 
+## Project Description
 In this project, I developed a comparison of the musical preferences of the inhabitants of Springfield and Shelbyville. I examined real data from Y.Music to test the hypothesis below and compare user behaviors in these two cities.
 
 
